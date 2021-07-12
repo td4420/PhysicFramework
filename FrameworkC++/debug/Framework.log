@@ -1,0 +1,3 @@
+﻿  SceneManager.cpp
+c:\users\han.glschool\desktop\question\frameworkc++\source\scenemanager.cpp(82): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  Framework.vcxproj -> C:\Users\han.glschool\Desktop\Question\FrameworkC++\BIN\Framework.exe
